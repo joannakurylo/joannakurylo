@@ -1,8 +1,7 @@
 <p>👋 Hi, I’m @joannakurylo</p>
 <p>👀 I’m interested in tech, AI, SaaS, web3, and startups</p>
-<p>🌱 I’m currently learning about Obsidian</p>
-<p>💞️ I’m looking to collaborate with other builders, SMB owners and founders on content, events, or general growth</p>
 <p>✨ I'm working on Growth at Zo.Computer! </p>
+<p>💞️ I’m looking to collaborate with other builders, SMB owners and founders on content, events, or general growth</p>
 <p>🔥 Visit my Zo Space at joannakurylo.zo.space</p>
 
 <!---
