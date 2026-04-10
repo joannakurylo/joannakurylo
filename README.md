@@ -1,10 +1,9 @@
 <p>👋 Hi, I’m @joannakurylo</p>
-<p>👀 I’m interested in tech, SaaS, web3, and startups</p>
+<p>👀 I’m interested in tech, AI, SaaS, web3, and startups</p>
 <p>🌱 I’m currently learning about Obsidian</p>
-<p>💞️ I’m looking to collaborate with other founders on content, events, or general growth</p>
-<p>✨ I'm building Thruways, a SaaS product that drives revenue growth for eCommerce companies with actionable insights and smarter data.</p>
-<p>📫 Reach me by email: joanna@joannakurylo.com</p>
-<p>🔥 Visit my website: www.joannakurylo.com</p>
+<p>💞️ I’m looking to collaborate with other builders, SMB owners and founders on content, events, or general growth</p>
+<p>✨ I'm working on Growth at Zo.Computer! </p>
+<p>🔥 Visit my Zo Space at joannakurylo.zo.space</p>
 
 <!---
 joannakurylo/joannakurylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
